@@ -1,0 +1,98 @@
+﻿ .ajax__multi_slider_custom .outer_rail_horizontal
+    {
+        position:absolute;background: url('../../images/slider_h_rail.png') no-repeat;width: 125px;left:17px; height: 25px;z-index: 100;
+    }
+    .ajax__multi_slider_custom .inner_rail_horizontal
+    {
+        position: absolute;
+        background: url('../images/slider_h_rail_inner.png') repeat-x;
+        height: 17px;
+        z-index: 100;
+    }
+    .ajax__multi_slider_custom .handle_horizontal_left
+    {
+        position: absolute;
+        background: url('../images/slider-handle.png')no-repeat;
+        width: 8px;
+        height: 17px;
+        z-index: 200;
+        cursor: hand;
+    }
+    .ajax__multi_slider_custom .handle_horizontal_right
+    {
+        position: absolute;
+        background: url('../images/slider-handle.png')no-repeat;
+        width: 8px;
+        height: 17px;
+        z-index: 200;
+        cursor: hand;
+    }
+    .handle_horizontal_left_text, .handle_horizontal_right_text
+    {
+        position: relative;
+        z-index: 300;
+        margin-top: 17px;
+        margin-left: -26px;
+        text-align: right;
+        border: solid 0px #000;
+        width: 45px;
+          color:#04033b;
+      font-size: 12px;
+        font-family:'ITCAvantGardeW01-CnMd';
+        background: none;
+    }
+    .handle_horizontal_right_text
+    {
+        margin-left: -6px;
+    }
+    select{width:220px; border:solid 1px #eee; height:27px; margin:2px;}
+    
+        .ajax__multi_slider_custom1 .outer_rail_horizontal
+    {
+        position:absolute;background: url('../images/slider_h_rail.png') no-repeat;width: 105px;left:20px; height: 25px;z-index: 100;
+    }
+    .ajax__multi_slider_custom1 .inner_rail_horizontal
+    {
+        position: absolute;
+        background: url('../images/slider_h_rail_inner.png') repeat-x;
+        height: 17px;
+        z-index: 100;
+    }
+    .ajax__multi_slider_custom1 .handle_horizontal_left1
+    {
+        position: absolute;
+        background: url('../images/slider-handle.png')no-repeat;
+        width: 8px;
+        height: 17px;
+        z-index: 200;
+        cursor: hand;
+    }
+    .ajax__multi_slider_custom1 .handle_horizontal_right1
+    {
+        position: absolute;
+        background: url('../images/slider-handle.png')no-repeat;
+        width: 8px;
+        height: 17px;
+        z-index: 200;
+        cursor: hand;
+    }
+    .handle_horizontal_left_text1, .handle_horizontal_right_text1
+    {
+        position: relative;
+        z-index: 300;
+        margin-top: 17px;
+        margin-left: -22px;
+        text-align: right;
+         width: 45px;
+        color:#04033b;
+      font-size: 12px;
+      border:none;
+        font-family:'ITCAvantGardeW01-CnMd';
+        background: none;
+    }
+    .handle_horizontal_right_text1
+    {
+        margin-left: 0px;
+        text-align:left;
+        
+    }
